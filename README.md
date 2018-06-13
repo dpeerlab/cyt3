@@ -25,3 +25,8 @@ Sight, accepts new data in FCS format. any piece of data is considered a gate.
 To load new data, click on the green '+' button in the gates panel.
 
 A tutorial on using cyt can be found here: https://github.com/dpeerlab/cyt3/blob/master/cyTutorial.ppt. Tutorial for running meta clustering is here: https://github.com/dpeerlab/cyt3/blob/master/Meta%20Clustering.pptx.
+
+
+Python versions for some of the tools within cyt
+1. Phenograph: https://github.com/dpeerlab/PhenoGraph
+2. Wanderlust/Wishbone: https://github.com/dpeerlab/wishbone
